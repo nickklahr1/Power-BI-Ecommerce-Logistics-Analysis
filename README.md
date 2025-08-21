@@ -9,7 +9,7 @@ This project analyzes a real-world dataset of over 100,000 orders, between 2016 
 
   
 # <ins>Data Structure</ins>
-The project's relational database structure consists of 9 interconnected tables, containing over 100,000 order records.
+The project's relational database structure consists of 9 interconnected tables, containing over 100,000 order records. The tables directly utilized are represented through the following Entity-Relationship Diagram:
 <img width="1100" height="592" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/c5225338-31b7-4190-bfe5-465ee89ee3e0" />
 
 # <ins>Executive Summary</ins>
@@ -30,8 +30,8 @@ The dashboard below summarizes this core challenge. The central 'State Performan
 
 #### **Category 1: Sales & Revenue Performance**
 
-*   **Main insight 1.** The business saw exceptional YOY growth across key metrics. Total Sales grew by **140.4%** to **$13.6M**, driven by a **141.3%** increase in Sales Volume.
-*   **Main insight 2.** Revenue is highly concentrated in a few key product categories. "Bed, Bath & Table" and "Health & Beauty" are the top performers, making their operational stability critical to the company's bottom line.
+*   **Main insight 1.** The business saw exceptional YOY growth across key metrics. Total Sales grew by **140.4%** to **$13.6M**, driven by a **141.3%** increase in Sales Volume (seen in graph 1).
+*   **Main insight 2.** Revenue is highly concentrated in a few key product categories. "Bed, Bath & Table", "Watches (gifts), and "Health & Beauty" are the top performers, making their operational stability critical to the company's bottom line.
 
       <img width="860" height="540" alt="Product Category Chart" src="https://github.com/user-attachments/assets/3f8140ac-6d91-45cc-b3d0-d2871456a462" />
 
@@ -51,21 +51,13 @@ The dashboard below summarizes this core challenge. The central 'State Performan
 
 Based on the insights above, we would recommend the **Head of Logistics and Operations** to consider the following to support scalable growth:
 
-1.  **Specific observation:** Our analysis identifies high-volume markets like Rio de Janeiro ('RJ') which fall into **Quadrant 1 (Critical Risk)**.
-    *   **Recommendation:** Immediately address these at-risk markets by launching a task force to audit local carrier performance and protect our most valuable revenue streams.
+1.  **Specific observation:** No states currently fall into Quadrant 1. This indicates that Olist’s highest-value markets are being supported by logistics that, while strained, are not yet undermining core revenue. This is a **good thing**, it shows the company is protecting its most important revenue streams in the midst of YoY revenue growth. 
+    *   **Recommendation:** To avoid future risks of states moving beyond defined threshold (most likely Q2 moving to Q1 due to increasing delivery times), establish a logisitcs risk dashboard that flags states with increasing delivery times beyond a moderate threshold. In the same manner, introduce several "what-if" stress models (e.g., 30% increase in orders in Rio Grande Do Sul) to identify possible bottlenecks **before** they occur. **Though there is not a current risk of states entering the critical risk quadrant, proactive monitoring is essential to sustainably avoid risks while continuing to scale**.
 
 2.  **Specific observation:** States in the Northeast consistently fall into **Quadrant 4 (Untapped Potential)**, with the worst delivery performance and correspondingly low sales.
-    *   **Recommendation:** Invest to unlock this potential by initiating a formal feasibility study for a new distribution hub in a city like Recife ('PE').
+    *   **Recommendation:** Conduct a feasibility study on distributed regional centers (Recife, Fortaleza) vs. one large hub. In addition to this, running a 6-month controlled pilot group that incorporates discount shipping in NE states. **Offering empirical evidence allows for a greater understanding of how to maximize revenue **without** heavily increasing delivery times and costs for customers**.
 
 3.  **Specific observation:** São Paulo ('SP') is the clear leader in **Quadrant 2 (Best in Class)**, handling our highest volume with exceptional speed.
     *   **Recommendation:** Standardize excellence by documenting the processes from this region to create a company-wide "Logistics Playbook."
 
 ---
-
-### **Assumptions and Caveats**
-
-Throughout the analysis, the following assumptions and caveats were noted:
-
-*   **Data Limitation:** The `order_delivered_customer_date` column contained null values for some orders. These records (less than 3% of the total) were excluded from delivery time calculations.
-*   **Assumption 1:** The `price` field is a proxy for top-line revenue, not profitability, as data on costs (e.g., shipping, cost of goods sold) was not included.
-*   **Assumption 2:** The YOY calculations are based on the `order_purchase_timestamp` and do not account for external factors like local holidays or carrier strikes.
