@@ -49,8 +49,6 @@ The dashboard below summarizes this core challenge. The central 'State Performan
 
 ### **Recommendations**
 
-Based on the insights above, we would recommend the **Head of Logistics and Operations** to consider the following to support scalable growth:
-
 1.  **Specific observation:** No states currently fall into Quadrant 1. This indicates that Olist’s highest-value markets are being supported by logistics that, while strained, are not yet undermining core revenue. This is a **good thing**, it shows the company is protecting its most important revenue streams in the midst of YoY revenue growth. 
     *   **Recommendation:** To avoid future risks of states moving beyond defined threshold (most likely Q2 moving to Q1 due to increasing delivery times), establish a logisitcs risk dashboard that flags states with increasing delivery times beyond a moderate threshold. In the same manner, introduce several "what-if" stress models (e.g., 30% increase in orders in Rio Grande Do Sul) to identify possible bottlenecks **before** they occur. **Though there is not a current risk of states entering the critical risk quadrant, proactive monitoring is essential to sustainably avoid risks while continuing to scale**.
 
