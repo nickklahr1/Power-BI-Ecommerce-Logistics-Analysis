@@ -53,7 +53,7 @@ The dashboard below summarizes this core challenge. The central 'State Performan
     *   **Recommendation:** To avoid future risks of states moving beyond defined threshold (most likely Q2 moving to Q1 due to increasing delivery times), establish a logisitcs risk dashboard that flags states with increasing delivery times beyond a moderate threshold. In the same manner, introduce several "what-if" stress models (e.g., 30% increase in orders in Rio Grande Do Sul) to identify possible bottlenecks **before** they occur. **Though there is not a current risk of states entering the critical risk quadrant, proactive monitoring is essential to sustainably avoid risks while continuing to scale**.
 
 2.  **Specific observation:** States in the Northeast consistently fall into **Quadrant 4 (Untapped Potential)**, with the worst delivery performance and correspondingly low sales.
-    *   **Recommendation:**Improve delivery times in the NW by partnering with local carriers or adding a small regional hub. Start with a pilot group in one major city (ex. Amazonas) to measure the impact on delivery time and sales volume before expanding further.**.
+    *   **Recommendation:** Improve delivery times in the NW by partnering with local carriers or adding a small regional hub. Start with a pilot group in one major city (ex. Amazonas) to measure the impact on delivery time and sales volume before expanding further.
 
 3.  **Specific observation:** São Paulo ('SP') is the clear leader in **Quadrant 2 (Best in Class)**, handling our highest volume with exceptional speed.
     *   **Recommendation:** Standardize excellence by documenting the processes from this region to create a company-wide "Logistics Playbook."
