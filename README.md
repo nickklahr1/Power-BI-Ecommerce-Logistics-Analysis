@@ -9,7 +9,7 @@ This project analyzes a real-world dataset of over 100,000 orders, between 2016 
 
   
 # <ins>Data Structure</ins>
-The project's relational database structure consists of 9 interconnected tables, containing over 100,000 order records. The tables directly utilized are represented through the following Entity-Relationship Diagram:
+The project's relational database structure consists of several interconnected tables, containing over 100,000 order records. The tables directly utilized are represented through the following Entity-Relationship Diagram:
 <img width="1100" height="592" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/c5225338-31b7-4190-bfe5-465ee89ee3e0" />
 
 # <ins>Executive Summary</ins>
