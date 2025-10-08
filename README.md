@@ -38,7 +38,7 @@ The dashboard below summarizes this core challenge. The central 'State Performan
 #### **Category 2: Logistics & Delivery Benchmarking**
 
 *   **Main insight 1.** The explosive growth in sales has led to a degradation in delivery performance. The overall average delivery time increased by **2.12%** YOY, indicating that our current logistics infrastructure is struggling to keep pace with demand.
-*   **Main insight 2.** A severe North-South divide in logistical performance exists. The map below shows that deliveries to the South are fast and efficient with delivery times averaging around **12.01 days**. The North and Northeast regions suffer from signfiicant delays, seeing an average delivery time of **22.39 days (86% more than South region)**.
+*   **Main insight 2.** A severe North-South divide in logistical performance exists. The map below shows that deliveries to the South are fast and efficient with delivery times averaging around **12.01 days**. The North and Northwest regions suffer from signfiicant delays, seeing an average delivery time of **22.39 days (86% more than South region)**.
 
 <p align="center">
 <img width="468" height="452" alt="Brazil" centered="true" src="https://github.com/user-attachments/assets/2a5e2ed4-ea50-420b-b81b-9472f698b987" />
@@ -52,7 +52,7 @@ The dashboard below summarizes this core challenge. The central 'State Performan
 1.  **Specific observation:** No states currently fall into Quadrant 1. This indicates that Olist’s highest-value markets are being supported by logistics that, while strained, are not yet undermining core revenue. This is a **good thing**, it shows the company is protecting its most important revenue streams in the midst of YoY revenue growth. 
     *   **Recommendation:** Build a simple "Logistical Risk Dashboard" to track delivery time trends by state and flag early signs of slowdown. Utilize "what-if" scenarios (ex. 30% order surge) to identify where future bottlenecks may occur before they impact revenue or future business partnership.
 
-2.  **Specific observation:** States in the Northeast consistently fall into **Quadrant 4 (Untapped Potential)**, with the worst delivery performance and correspondingly low sales.
+2.  **Specific observation:** States in the Northwest consistently fall into **Quadrant 4 (Untapped Potential)**, with the worst delivery performance and correspondingly low sales.
     *   **Recommendation:** Improve delivery times in the NW by partnering with local carriers or adding a small regional hub. Start with a pilot group in one major city (ex. Amazonas) to measure the impact on delivery time and sales volume before expanding further.
 
 3.  **Specific observation:** São Paulo ('SP') is the clear leader in **Quadrant 2 (Best in Class)**, handling our highest volume with exceptional speed.
