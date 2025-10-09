@@ -57,7 +57,7 @@ The dashboard below summarizes this core challenge. The central 'State Performan
     *   **Recommendation:** Build a simple "Logistical Risk Dashboard" to track delivery time trends by state and flag early signs of slowdown. Utilize "what-if" scenarios (ex. 30% order surge) to identify where future bottlenecks may occur before they impact revenue or future business partnership.
 
 2.  **Specific observation:** States in the Northwest consistently fall into **Quadrant 4 (Untapped Potential)**, with the worst delivery performance and correspondingly low sales.
-    *   **Recommendation:** Improve delivery times in the NW by partnering with local carriers or adding a small regional hub. Start with a pilot group in one major city (ex. Amazonas) to measure the impact on delivery time and sales volume before expanding further.
+    *   **Recommendation:** Improve delivery times in the NW by partnering with local carriers or adding a small regional hub. Start with a pilot group in one major state (ex. Amazonas) to measure the impact on delivery time and sales volume before expanding further.
 
 3.  **Specific observation:** São Paulo ('SP') is the clear leader in **Quadrant 2 (Best in Class)**, handling our highest volume with exceptional speed.
     *   **Recommendation:** Standardize excellence by documenting the processes from this region to create a company-wide Logistics Playbook. This can be rolled out to neighboring regions to replicate its speed and efficency.
